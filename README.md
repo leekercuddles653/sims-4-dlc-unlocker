@@ -14,8 +14,6 @@ Sims 4 Updater is a tool that lets you:
 
 ---
 
-![DLC Unlocker Preview](https://anadius.su/images/updater.png)
-
 ## 🗃 [Instructions](https://anadius.su/sims-4-instructions)
 
 ---
