@@ -1,6 +1,6 @@
 # ℹ Sims 4 DLC Unlocker 😱
 
-**Legit DLC/Expansion Unlocker for Sims 4**
+**Anadius Updater is a DLC unlocker for the legitimate copy of Sims 4. It attempts to fool EA Servers into thinking that you own the desired DLCs. However, Updater does not modify the rest, hence features like achievements, etc. remain fully functional.**
 
 ## 🧩 What Is It?
 
@@ -17,10 +17,6 @@ Sims 4 Updater is a tool that lets you:
 ![DLC Unlocker Preview](https://i.playground.ru/p/d4OirD-UmGNPpuutNYyCPA.jpeg.webp?760xautoA)
 
 ## 🗃 [Instructions](https://anadius.su/sims-4-instructions)
-
-### What is Anadius DLC Unlocker?
-
-Anadius Updater is a DLC unlocker for the legitimate copy of Sims 4. It attempts to fool EA Servers into thinking that you own the desired DLCs. However, Updater does not modify the rest, hence features like achievements, etc. remain fully functional.
 
 ---
 
