@@ -10,13 +10,11 @@ Sims 4 Updater is a tool that lets you:
 - ✅ Download and install **DLCs**  
 - ✅ Add a **modified EXE** to a legit game (if desired)
 
-##📥 [Download the latest release](https://github.com/acidicoala/ScreamAPI/releases/latest)
+- 📥 [Download the latest release]()
 
 ## 🗃 [Instructions](https://anadius.su/sims-4-instructions)
 
-## ℹ Introduction
-
-## What is Anadius DLC Unlocker?
+### What is Anadius DLC Unlocker?
 
 Anadius Updater is a DLC unlocker for the legitimate copy of Sims 4. It attempts to fool EA Servers into thinking that you own the desired DLCs. However, Updater does not modify the rest, hence features like achievements, etc. remain fully functional.
 
